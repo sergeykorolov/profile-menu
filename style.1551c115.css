@@ -144,7 +144,7 @@ body {
   width: 40px;
   height: 30px;
   margin: 15px 0 2px 18px;
-  background: url("mobile_12.27409f90.png") -4px -38px no-repeat;
+  background: url("mobile_12.d145f79a.png") -4px -38px no-repeat;
 }
 .navigation-panel .balance-btn:before {
   content: "";
@@ -152,7 +152,7 @@ body {
   width: 30px;
   height: 35px;
   margin: 9px 0 4px 18px;
-  background: url("mobile_12.27409f90.png") -43px -33px no-repeat;
+  background: url("mobile_12.d145f79a.png") -43px -33px no-repeat;
 }
 .navigation-panel .stock-btn:before {
   content: "";
@@ -160,7 +160,7 @@ body {
   width: 30px;
   height: 35px;
   margin: 8px 0 4px 18px;
-  background: url("mobile_12.27409f90.png") -79px -30px no-repeat;
+  background: url("mobile_12.d145f79a.png") -79px -30px no-repeat;
 }
 .navigation-panel .messages-btn {
   position: absolute;
@@ -174,7 +174,7 @@ body {
   display: block;
   width: 40px;
   height: 30px;
-  background: url("mobile_12.27409f90.png") -145px -33px no-repeat;
+  background: url("mobile_12.d145f79a.png") -145px -33px no-repeat;
 }
 .menu {
   display: flex;
@@ -210,7 +210,7 @@ body {
   position: absolute;
   left: -12px;
   top: 11px;
-  background: url("mobile_12.27409f90.png") -234px -37px no-repeat, #fff;
+  background: url("mobile_12.d145f79a.png") -234px -37px no-repeat, #fff;
 }
 .menu .menu-partner img {
   width: 31px;
@@ -261,7 +261,7 @@ body {
   position: relative;
 }
 .menu .events:before {
-  background: url("mobile_12.27409f90.png") 2px 0 no-repeat;
+  background: url("mobile_12.d145f79a.png") 2px 0 no-repeat;
 }
 .menu .events > span {
   width: 20px;
@@ -281,25 +281,25 @@ body {
   display: inline-block;
 }
 .menu .friends:before {
-  background: url("mobile_12.27409f90.png") -29px 0 no-repeat;
+  background: url("mobile_12.d145f79a.png") -29px 0 no-repeat;
 }
 .menu .leagues:before {
-  background: url("mobile_12.27409f90.png") -63px 0 no-repeat;
+  background: url("mobile_12.d145f79a.png") -63px 0 no-repeat;
 }
 .menu .settings:before {
-  background: url("mobile_12.27409f90.png") -101px 0 no-repeat;
+  background: url("mobile_12.d145f79a.png") -101px 0 no-repeat;
 }
 .menu .leaders:before {
-  background: url("mobile_12.27409f90.png") -131px 0 no-repeat;
+  background: url("mobile_12.d145f79a.png") -131px 0 no-repeat;
 }
 .menu .progress:before {
-  background: url("mobile_12.27409f90.png") -165px 0 no-repeat;
+  background: url("mobile_12.d145f79a.png") -165px 0 no-repeat;
 }
 .menu .collections:before {
-  background: url("mobile_12.27409f90.png") -196px 0 no-repeat;
+  background: url("mobile_12.d145f79a.png") -196px 0 no-repeat;
 }
 .menu .search:before {
-  background: url("mobile_12.27409f90.png") -227px 0 no-repeat;
+  background: url("mobile_12.d145f79a.png") -227px 0 no-repeat;
 }
 .menu .weddings {
   position: relative;
@@ -308,7 +308,7 @@ body {
   width: 24px;
   height: 24px;
   margin-right: 13px;
-  background: url("mobile_12.27409f90.png") -259px -1px no-repeat;
+  background: url("mobile_12.d145f79a.png") -259px -1px no-repeat;
 }
 .menu .weddings:after {
   content: "";
@@ -317,7 +317,7 @@ body {
   height: 26px;
   right: 0;
   top: -2px;
-  background: url("mobile_12.27409f90.png") -110px -34px no-repeat;
+  background: url("mobile_12.d145f79a.png") -110px -34px no-repeat;
 }
 .menu .separator {
   width: 144px;
@@ -337,7 +337,7 @@ body {
   width: 22px;
   height: 20px;
   display: block;
-  background: url("arrow-left2.2e4ec894.svg");
+  background: url("arrow-left2.c5e55e10.svg");
   background-size: cover;
   transform: translate(50%, -50%);
 }
@@ -349,4 +349,4 @@ body {
 }
 
 
-/*# sourceMappingURL=/style.f3ee9ab8.css.map */
+/*# sourceMappingURL=/profile-menu/style.1551c115.css.map */
