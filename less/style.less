@@ -199,7 +199,7 @@ body {
     &:before {
       background: url("../images/mobile_12.png") 2px 0 no-repeat;
     }
-    span {
+    & > span {
       width: 20px;
       height: 20px;
       border: 2px solid #fff;
@@ -211,6 +211,10 @@ body {
       padding-left: 5px;
       right: 0;
       top: 1px;
+      span{
+        transform: translate(5%, 2%);
+        display: inline-block;
+      }
     }
   }
   .friends {
