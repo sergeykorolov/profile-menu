@@ -6,16 +6,20 @@
   "homepage": "https://sergeykorolov.github.io/profile-menu",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html --public-url /profile-menu/",
+    "build": "parcel build index.html --no-minify --public-url /profile-menu",
     "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-less": "^2.0.0-rc.0",
+    "cssnano": "^5.0.8",
+    "gh-pages": "^3.2.3",
     "parcel-bundler": "^1.12.5",
+    "postcss": "^8.3.6",
     "typescript": "^4.4.3"
   }
 }
